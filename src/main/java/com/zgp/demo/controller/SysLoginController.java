@@ -24,7 +24,7 @@ public class SysLoginController {
     @GetMapping("/login")
     public AjaxResult Syslogin(){
         AjaxResult ajax = AjaxResult.success();
-        int i = RandomUtil.randomInt(1000);
+        int i = RandomUtil.randomInt(100);
         String loginCode = loginService.login(String.valueOf(i),"ABC");
         ajax.put("uuid",loginCode);
         return ajax;
