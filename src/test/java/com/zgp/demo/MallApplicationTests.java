@@ -8,6 +8,7 @@ class MallApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("v2");
     }
 
 }
