@@ -1,0 +1,14 @@
+com\zgp\demo\common\Constants.class
+com\zgp\demo\MallApplication.class
+com\zgp\demo\common\StringUtils.class
+com\zgp\demo\controller\CaptchaController.class
+com\zgp\demo\config\CaptchaConfig.class
+com\zgp\demo\controller\SysLoginController.class
+com\zgp\demo\common\UUID.class
+com\zgp\demo\common\UUID$Holder.class
+com\zgp\demo\common\RedisCache.class
+com\zgp\demo\entity\HttpStatus.class
+com\zgp\demo\entity\AjaxResult.class
+com\zgp\demo\common\KaptchaTextCreator.class
+com\zgp\demo\common\IdUtils.class
+com\zgp\demo\Service\loginService.class
